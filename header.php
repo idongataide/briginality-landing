@@ -209,9 +209,9 @@
                                     </nav>
                                 </div>
                             </div>
-                            <a href="#0" class="search-trigger search-icon"><i class="fal fa-search"></i></a>
+                            <a href="#" class="search-trigger search-icon"><i class="fal fa-search"></i></a>
                             <div class="header-button">
-                                <a target="_blank" href="http://app.bridginality.org/ class="theme-btn">
+                                <a target="_blank" href="http://app.bridginality.org/" class="theme-btn">
                                     <span>
                                         Get Started
                                         <i class="fa-solid fa-arrow-right-long"></i>
