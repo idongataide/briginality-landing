@@ -1,0 +1,75 @@
+
+
+        
+     
+
+        <?php
+            $teamMembers = [
+                [
+                    "name" => "Brooklyn Simmons",
+                    "role" => "Instructors",
+                    "image" => "assets/img/team/01.jpg",                                    
+                ],
+                [
+                    "name" => "Leslie Alexander",
+                    "role" => "Instructors",
+                    "image" => "assets/img/team/02.jpg",                                   
+                ],
+                [
+                    "name" => "Ronald Richards",
+                    "role" => "Instructors",
+                    "image" => "assets/img/team/03.jpg",                                    
+                ],
+                [
+                    "name" => "Kristin Watson",
+                    "role" => "Instructors",
+                    "image" => "assets/img/team/04.jpg",                                   
+                ]
+            ];
+            ?>
+
+            <section class="team-section fix section-bg section-padding">
+                <div class="top-shape">
+                    <img src="assets/img/section-top-shape.png" alt="shape-img">
+                </div>
+                <div class="love-shape float-bob-x">
+                    <img src="assets/img/team/love.png" alt="shape-img">
+                </div>
+                <div class="frame-shape">
+                    <img src="assets/img/team/frame.png" alt="shape-img">
+                </div>
+                <div class="container">
+                    <div class="section-title-area">
+                        <div class="section-title mt-60">
+                            <span class="wow fadeInUp">Our Leaders</span>
+                            <h2 class="wow fadeInUp" data-wow-delay=".3s">Our Expert Leaders</h2>
+                        </div>
+                        <div class="array-button wow fadeInUp" data-wow-delay=".5s">
+                            <button class="array-prev"><i class="fal fa-arrow-left"></i></button>
+                            <button class="array-next"><i class="fal fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+                    <div class="swiper team-slider">
+                        <div class="swiper-wrapper">
+                            <?php foreach ($teamMembers as $member): ?>
+                                <div class="swiper-slide">
+                                    <div class="team-items">
+                                        <div class="team-image">
+                                            <div class="shape-img">
+                                                <img src="assets/img/team/team-shape.png" alt="img">
+                                            </div>
+                                            <img src="<?= $member['image'] ?>" alt="team-img">                                            
+                                        </div>
+                                        <div class="team-content">
+                                            <h3>
+                                                <a target="_blank" href="http://app.bridginality.org/"><?= $member['name'] ?></a>
+                                            </h3>
+                                            <p><?= $member['role'] ?></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                        </div>
+                    </div>
+                </div>
+            </section>

@@ -23,7 +23,7 @@
                     <h1 class="wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">FAQs</h1>
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                         <li>
-                            <a href="index.html">
+                            <a href="index.php">
                                 Home
                             </a>
                         </li>

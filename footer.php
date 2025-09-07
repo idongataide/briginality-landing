@@ -154,7 +154,7 @@
                         <div class="contact-info mt-4">
                             <div class="contact-item">
                                 <i class="fa-solid fa-envelope me-2"></i>
-                                <span>hello@bridginality.org</span>
+                                <span>info@bridginality.org</span>
                             </div>                            
                         </div>
                     </div>
@@ -169,7 +169,7 @@
         <div class="container">
             <div class="footer-wrapper d-flex align-items-center justify-content-between">
                 <p class="wow fadeInLeft color-2" data-wow-delay=".3s">
-                    © 2024 Bridginality. Empowering homeschooled teens globally.
+                    © <?php echo date('Y')?> Bridginality. Empowering homeschooled teens globally.
                 </p>
                 <ul class="footer-menu wow fadeInRight" data-wow-delay=".5s">
                     <li>

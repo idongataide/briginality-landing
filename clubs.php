@@ -25,7 +25,7 @@
                     <h1 class="wow fadeInUp" data-wow-delay=".3s">Our Clubs</h1>
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                         <li>
-                            <a href="index.html">
+                            <a href="index.php">
                                 Home
                             </a>
                         </li>
@@ -82,7 +82,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="clubs.html#stem" class="theme-btn">
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
                                 Get Started <i class="fa-solid fa-arrow-right-long"></i>
                             </a>
                         </div>
@@ -134,7 +134,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="clubs.html#creative" class="theme-btn">
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
                                 Get Started <i class="fa-solid fa-arrow-right-long"></i>
                             </a>
                         </div>
@@ -179,7 +179,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="clubs.html#civic" class="theme-btn">
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
                                 Get Started <i class="fa-solid fa-arrow-right-long"></i>
                             </a>
                         </div>
@@ -231,7 +231,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="clubs.html#innovation" class="theme-btn">
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
                                 Get Started <i class="fa-solid fa-arrow-right-long"></i>
                             </a>
                         </div>

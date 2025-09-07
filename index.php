@@ -29,11 +29,12 @@
                 <div class="row g-4 align-items-center">
                     <div class="col-lg-6">
                         <div class="hero-content">
-                            <h5 class="wow fadeInUp">For students (14yrs - 18yrs)</h5>
+                            <!-- <h5 class="wow fadeInUp"></h5> -->
                             <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                Bridginality <br> <span>For Homeschooled Teen </span>By Homeschooled Teens
+                                For Homeschooled Teen </span>By Homeschooled Teens
                             </h2>
-                            <p class="wow fadeInUp" data-wow-delay=".5s">A global, student-led mental-health platform for homeschooled <br/> teens  aimed to combat loneliness.  </p>
+                            <p class="wow fadeInUp" data-wow-delay=".5s">For students (14yrs - 18yrs)</p>
+                            <!-- <p class="wow fadeInUp" data-wow-delay=".5s">A global, student-led mental-health platform for homeschooled <br/> teens  aimed to combat loneliness.  </p> -->
                             <div class="hero-button">
                                 <a href="http://app.bridginality.org/"  class="theme-btn wow fadeInUp" data-wow-delay=".7s">
                                     Apply Today <i class="fa-solid fa-arrow-right-long"></i>
@@ -83,7 +84,7 @@
                         <div class="col-lg-6">
                             <div class="about-content">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">About us</span>
+                                    <!-- <span class="wow fadeInUp">About us</span> -->
                                      <h2 class="wow fadeInUp" data-wow-delay=".3s">Top Choice for Teenagers</h2>
                                 </div>
                                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
@@ -121,7 +122,7 @@
                                             Get Started <i class="fa-solid fa-arrow-right-long"></i>
                                         </a>
                                     </div>
-                                    <div class="author-icon wow fadeInUp" data-wow-delay=".5s">
+                                    <!-- <div class="author-icon wow fadeInUp" data-wow-delay=".5s">
                                        <div class="icon">
                                             <i class="fa-solid fa-phone"></i>
                                        </div>
@@ -131,7 +132,7 @@
                                                 <a href="tel:+2085550112">+208-555-0112</a>
                                             </h5>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -146,7 +147,7 @@
             </div>
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Why Choose Bridginality</span>
+                    <!-- <span class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Why Choose Bridginality</span> -->
                     <h2 class="wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">Designed for homeschooled teens <br> to connect and grow together</h2>
                 </div>
                 <div class="row">
@@ -336,7 +337,7 @@
                         <div class="col-lg-6">
                             <div class="activities-content">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">Take the Lead</span>
+                                    <!-- <span class="wow fadeInUp">Take the Lead</span> -->
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">Student Leaders</h2>
                                 </div>
                                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
@@ -399,76 +400,7 @@
             </div>
         </section>
 
-        <?php
-            $teamMembers = [
-                [
-                    "name" => "Brooklyn Simmons",
-                    "role" => "Instructors",
-                    "image" => "assets/img/team/01.jpg",                                    
-                ],
-                [
-                    "name" => "Leslie Alexander",
-                    "role" => "Instructors",
-                    "image" => "assets/img/team/02.jpg",                                   
-                ],
-                [
-                    "name" => "Ronald Richards",
-                    "role" => "Instructors",
-                    "image" => "assets/img/team/03.jpg",                                    
-                ],
-                [
-                    "name" => "Kristin Watson",
-                    "role" => "Instructors",
-                    "image" => "assets/img/team/04.jpg",                                   
-                ]
-            ];
-            ?>
-
-            <section class="team-section fix section-bg section-padding">
-                <div class="top-shape">
-                    <img src="assets/img/section-top-shape.png" alt="shape-img">
-                </div>
-                <div class="love-shape float-bob-x">
-                    <img src="assets/img/team/love.png" alt="shape-img">
-                </div>
-                <div class="frame-shape">
-                    <img src="assets/img/team/frame.png" alt="shape-img">
-                </div>
-                <div class="container">
-                    <div class="section-title-area">
-                        <div class="section-title mt-60">
-                            <span class="wow fadeInUp">Our Leaders</span>
-                            <h2 class="wow fadeInUp" data-wow-delay=".3s">Our Expert Leaders</h2>
-                        </div>
-                        <div class="array-button wow fadeInUp" data-wow-delay=".5s">
-                            <button class="array-prev"><i class="fal fa-arrow-left"></i></button>
-                            <button class="array-next"><i class="fal fa-arrow-right"></i></button>
-                        </div>
-                    </div>
-                    <div class="swiper team-slider">
-                        <div class="swiper-wrapper">
-                            <?php foreach ($teamMembers as $member): ?>
-                                <div class="swiper-slide">
-                                    <div class="team-items">
-                                        <div class="team-image">
-                                            <div class="shape-img">
-                                                <img src="assets/img/team/team-shape.png" alt="img">
-                                            </div>
-                                            <img src="<?= $member['image'] ?>" alt="team-img">                                            
-                                        </div>
-                                        <div class="team-content">
-                                            <h3>
-                                                <a target="_blank" href="http://app.bridginality.org/"><?= $member['name'] ?></a>
-                                            </h3>
-                                            <p><?= $member['role'] ?></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            <?php endforeach; ?>
-                        </div>
-                    </div>
-                </div>
-            </section>
+    
 
         <section class="testimonial-section fix section-padding">
             <div class="tree-shape float-bob-y">
@@ -482,7 +414,7 @@
             </div>
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="wow fadeInUp">testimonials</span>
+                    <!-- <span class="wow fadeInUp">testimonials</span> -->
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">Voices that inspire <br> stories of belonging</h2>
                 </div>
                 <div class="swiper testimonial-slider">

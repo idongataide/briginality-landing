@@ -209,7 +209,7 @@
                                     </nav>
                                 </div>
                             </div>
-                            <a href="#" class="search-trigger search-icon"><i class="fal fa-search"></i></a>
+                            <!-- <a href="#" class="search-trigger search-icon"><i class="fal fa-search"></i></a> -->
                             <div class="header-button">
                                 <a target="_blank" href="http://app.bridginality.org/" class="theme-btn">
                                     <span>
@@ -230,7 +230,7 @@
         </header>
 
         <!-- Search Area Start -->
-        <div class="search-wrap">
+        <!-- <div class="search-wrap">
             <div class="search-inner">
                 <i class="fas fa-times search-close" id="search-close"></i>
                 <div class="search-cell">
@@ -241,4 +241,4 @@
                     </form>
                 </div>
             </div>
-        </div>
+        </div> -->

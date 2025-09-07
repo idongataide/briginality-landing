@@ -24,7 +24,7 @@
                     <h1 class="wow fadeInUp" data-wow-delay=".3s">Contact Us</h1>
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                         <li>
-                            <a href="index.html">
+                            <a href="index.php">
                                 Home
                             </a>
                         </li>
@@ -47,7 +47,7 @@
                         <div class="col-lg-6">
                             <div class="contact-left-items">
                                 <div class="contact-info-area-2">
-                                    <div class="contact-info-items mb-4">
+                                    <!-- <div class="contact-info-items mb-4">
                                         <div class="icon">
                                             <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M23.7891 1.81641H16.7578C13.3658 1.81641 10.6055 4.5767 10.6055 7.96875C10.6055 11.063 12.9015 13.631 15.8789 14.0585V16.7578C15.8788 16.9317 15.9303 17.1016 16.0268 17.2462C16.1234 17.3907 16.2607 17.5033 16.4214 17.5697C16.7456 17.705 17.1258 17.6325 17.3793 17.3792L20.6374 14.1211H23.7891C27.1811 14.1211 30 11.3608 30 7.96875C30 4.5767 27.1811 1.81641 23.7891 1.81641ZM16.7578 8.84754C16.2723 8.84754 15.8789 8.45402 15.8789 7.96863C15.8789 7.48324 16.2723 7.08973 16.7578 7.08973C17.2432 7.08973 17.6367 7.48324 17.6367 7.96863C17.6367 8.45402 17.2432 8.84754 16.7578 8.84754ZM20.2734 8.84754C19.7879 8.84754 19.3945 8.45402 19.3945 7.96863C19.3945 7.48324 19.7879 7.08973 20.2734 7.08973C20.7588 7.08973 21.1523 7.48324 21.1523 7.96863C21.1523 8.45402 20.7588 8.84754 20.2734 8.84754ZM23.7891 8.84754C23.3036 8.84754 22.9102 8.45402 22.9102 7.96863C22.9102 7.48324 23.3036 7.08973 23.7891 7.08973C24.2745 7.08973 24.668 7.48324 24.668 7.96863C24.668 8.45402 24.2745 8.84754 23.7891 8.84754Z" fill="white"/>
@@ -61,7 +61,7 @@
                                                 <a href="tel:+2085550112">+208-555-0112</a>
                                             </h3>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="contact-info-items mb-4">
                                         <div class="icon">
                                             <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -73,7 +73,7 @@
                                         <div class="content">
                                             <p>Make a Quote</p>
                                             <h3>
-                                                <a href="mailto:info@brigidnality.com">info@brigidnality.com</a>
+                                                <a href="mailto:info@bridginality.org">info@bridginality.org</a>
                                             </h3>
                                         </div>
                                     </div>
