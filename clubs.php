@@ -50,10 +50,10 @@
                                 <h4>STEM-Focused</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li><i class="fa-solid fa-check"></i><div><strong>Coding & App Dev Club</strong><span class="club-description">Learn coding, build small apps, and share cool projects with other techies!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Women in STEM Circle</strong><span class="club-description">A space for girls interested in science, technology, engineering, and medicine to connect, share experiences, and meet mentors!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Space & Astronomy Club</strong><span class="club-description">Explore the universe together with stargazing nights, space talks, and trivia!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Health & Bioethics Circle</strong><span class="club-description">Debate health dilemmas, explore medical ethics, and chat about future careers!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Coding & App Dev Club <br/></strong><span class="club-description">Learn coding, build small apps, and share cool projects with other techies!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Women in STEM Circle <br/></strong><span class="club-description">A space for girls interested in science, technology, engineering, and medicine to connect, share experiences, and meet mentors!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Space & Astronomy Club <br/></strong><span class="club-description">Explore the universe together with stargazing nights, space talks, and trivia!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Health & Bioethics Circle <br/></strong><span class="club-description">Debate health dilemmas, explore medical ethics, and chat about future careers!</span></div></li>
                             </ul>
                             <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
@@ -69,11 +69,11 @@
                                 <h4>Creative & Cultural</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li><i class="fa-solid fa-check"></i><div><strong>Crochet & Fiber Arts Club</strong><span class="club-description">Hang out in virtual stitch circles, swap patterns, and show off creations!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Poetry & Prose Circle</strong><span class="club-description">Join open mics, share writing, and try out spoken word in a safe space!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Visual Art & Illustration Club</strong><span class="club-description">Draw, design, and collaborate on fun creative challenges!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Music Production Club</strong><span class="club-description">Jam, produce tracks, and perform in Bridginality’s virtual showcases!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Culinary Cultures Club</strong><span class="club-description">Cook together online, share family recipes, and learn new cultural dishes!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Crochet & Fiber Arts Club <br/></strong><span class="club-description">Hang out in virtual stitch circles, swap patterns, and show off creations!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Poetry & Prose Circle <br/></strong><span class="club-description">Join open mics, share writing, and try out spoken word in a safe space!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Visual Art & Illustration Club <br/></strong><span class="club-description">Draw, design, and collaborate on fun creative challenges!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Music Production Club <br/></strong><span class="club-description">Jam, produce tracks, and perform in Bridginality’s virtual showcases!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Culinary Cultures Club <br/></strong><span class="club-description">Cook together online, share family recipes, and learn new cultural dishes!</span></div></li>
                             </ul>
                             <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
@@ -89,10 +89,10 @@
                                 <h4>Civic & Intellectual</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li><i class="fa-solid fa-check"></i><div><strong>Story Circles</strong><span class="club-description">Tell your story, listen to others, and connect with shared experiences!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Model United Nations</strong><span class="club-description">Practice global diplomacy, public speaking, and mock UN debates!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Debate & Public Speaking</strong><span class="club-description">Sharpen your skills in live debates and speaking challenges!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Journalism & Op-Ed Club</strong><span class="club-description">Explore youth storytelling through interviews, reports, and creative pieces!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Story Circles <br/></strong><span class="club-description">Tell your story, listen to others, and connect with shared experiences!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Model United Nations <br/></strong><span class="club-description">Practice global diplomacy, public speaking, and mock UN debates!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Debate & Public Speaking <br/></strong><span class="club-description">Sharpen your skills in live debates and speaking challenges!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Journalism & Op-Ed Club <br/></strong><span class="club-description">Explore youth storytelling through interviews, reports, and creative pieces!</span></div></li>
                             </ul>
                             <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
@@ -108,11 +108,11 @@
                                 <h4>Innovation & Life Skills</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li><i class="fa-solid fa-check"></i><div><strong>Entrepreneurship Club</strong><span class="club-description">Pitch ideas, learn business basics, and delve into youth entrepreneurship!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Finance & Investing Club</strong><span class="club-description">Play money games, learn investing, and build financial confidence!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Study Skills Circle</strong><span class="club-description">Swap study hacks, join focus sprints, and share resources!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Climate Action Club</strong><span class="club-description">Take on eco-challenges, create awareness campaigns, and learn sustainability!</span></div></li>
-                                <li><i class="fa-solid fa-check"></i><div><strong>Youth Leadership Circle</strong><span class="club-description">Practice leadership, mentor peers, and grow as a changemaker!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Entrepreneurship Club <br/></strong><span class="club-description">Pitch ideas, learn business basics, and delve into youth entrepreneurship!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Finance & Investing Club <br/></strong><span class="club-description">Play money games, learn investing, and build financial confidence!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Study Skills Circle <br/></strong><span class="club-description">Swap study hacks, join focus sprints, and share resources!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Climate Action Club <br/></strong><span class="club-description">Take on eco-challenges, create awareness campaigns, and learn sustainability!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Youth Leadership Circle <br/></strong><span class="club-description">Practice leadership, mentor peers, and grow as a changemaker!</span></div></li>
                             </ul>
                             <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
