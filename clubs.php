@@ -1,4 +1,3 @@
-
 <?php include 'header.php'?>
         <!--<< Breadcrumb Section Start >>-->
         <div class="breadcrumb-wrapper bg-cover" style="background-image: url('assets/img/breadcrumb.png');">
@@ -25,26 +24,24 @@
                     <h1 class="wow fadeInUp" data-wow-delay=".3s">Our Clubs</h1>
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                         <li>
-                            <a href="index.php">
-                                Home
-                            </a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
                             <i class="fas fa-chevron-right"></i>
                         </li>
-                        <li>
-                            Our Clubs
-                        </li>
+                        <li>Our Clubs</li>
                     </ul>
                 </div>
             </div>
         </div>
 
-        <!-- Pricing Section Start -->
+        <!-- Clubs Section Start -->
         <section class="pricing-section section-padding mt-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+
+                    <!-- STEM-Focused -->
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="pricing-items box-shadow stem-category">                       
                             <div class="element-shape">
                                 <img src="assets/img/pricing/element.png" alt="shape-img">
@@ -53,43 +50,17 @@
                                 <h4>STEM-Focused</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Coding & App Dev Club</strong>
-                                        <span class="club-description">Oversees Bridginality's tech backend and improves website/app features</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Women in STEM Circle</strong>
-                                        <span class="club-description">Mentorship and inclusion for girls in science fields with guest speakers</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Space & Astronomy Club</strong>
-                                        <span class="club-description">Leads space-themed blog series and educational content</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Health & Bioethics Circle</strong>
-                                        <span class="club-description">Produces opinion pieces on health justice topics for blog and social media</span>
-                                    </div>
-                                </li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Coding & App Dev Club</strong><span class="club-description">Learn coding, build small apps, and share cool projects with other techies!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Women in STEM Circle</strong><span class="club-description">A space for girls interested in science, technology, engineering, and medicine to connect, share experiences, and meet mentors!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Space & Astronomy Club</strong><span class="club-description">Explore the universe together with stargazing nights, space talks, and trivia!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Health & Bioethics Circle</strong><span class="club-description">Debate health dilemmas, explore medical ethics, and chat about future careers!</span></div></li>
                             </ul>
-                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
-                                Get Started <i class="fa-solid fa-arrow-right-long"></i>
-                            </a>
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                     </div>
-                    
-                    <!-- Creative & Cultural Clubs -->
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+
+                    <!-- Creative & Cultural -->
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="pricing-items box-shadow creative-category">                       
                             <div class="element-shape">
                                 <img src="assets/img/pricing/element.png" alt="shape-img">
@@ -98,50 +69,18 @@
                                 <h4>Creative & Cultural</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Crochet & Fiber Arts Club</strong>
-                                        <span class="club-description">Hosts virtual stitch circles and contributes photo essays</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Poetry & Prose Circle</strong>
-                                        <span class="club-description">Featured monthly on Bridginality Blog with spoken word content</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Visual Art & Illustration Club</strong>
-                                        <span class="club-description">Designs campaign visuals and manages social media content</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Music Production Club</strong>
-                                        <span class="club-description">Curates Bridginality Soundtrack and performs at virtual events</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Culinary Cultures Club</strong>
-                                        <span class="club-description">Runs blog on cultural dishes and films food tutorials</span>
-                                    </div>
-                                </li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Crochet & Fiber Arts Club</strong><span class="club-description">Hang out in virtual stitch circles, swap patterns, and show off creations!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Poetry & Prose Circle</strong><span class="club-description">Join open mics, share writing, and try out spoken word in a safe space!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Visual Art & Illustration Club</strong><span class="club-description">Draw, design, and collaborate on fun creative challenges!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Music Production Club</strong><span class="club-description">Jam, produce tracks, and perform in Bridginality’s virtual showcases!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Culinary Cultures Club</strong><span class="club-description">Cook together online, share family recipes, and learn new cultural dishes!</span></div></li>
                             </ul>
-                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
-                                Get Started <i class="fa-solid fa-arrow-right-long"></i>
-                            </a>
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                     </div>
-                    
-                    <!-- Civic & Intellectual Clubs -->
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+
+                    <!-- Civic & Intellectual -->
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="pricing-items box-shadow civic-category">                       
                             <div class="element-shape">
                                 <img src="assets/img/pricing/element.png" alt="shape-img">
@@ -150,43 +89,17 @@
                                 <h4>Civic & Intellectual</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Story Circles</strong>
-                                        <span class="club-description">Share experiences and resilience faced with homeschooling</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Model United Nations</strong>
-                                        <span class="club-description">Develops global policy simulations and debate recordings</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Debate & Public Speaking</strong>
-                                        <span class="club-description">Hosts monthly live debates repurposed into content</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Journalism & Op-Ed Club</strong>
-                                        <span class="club-description">Manages Bridginality Blog publishing news and youth op-eds</span>
-                                    </div>
-                                </li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Story Circles</strong><span class="club-description">Tell your story, listen to others, and connect with shared experiences!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Model United Nations</strong><span class="club-description">Practice global diplomacy, public speaking, and mock UN debates!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Debate & Public Speaking</strong><span class="club-description">Sharpen your skills in live debates and speaking challenges!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Journalism & Op-Ed Club</strong><span class="club-description">Explore youth storytelling through interviews, reports, and creative pieces!</span></div></li>
                             </ul>
-                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
-                                Get Started <i class="fa-solid fa-arrow-right-long"></i>
-                            </a>
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                     </div>
-                    
-                    <!-- Innovation & Life Skills Clubs -->
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+
+                    <!-- Innovation & Life Skills -->
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="pricing-items box-shadow innovation-category">                       
                             <div class="element-shape">
                                 <img src="assets/img/pricing/element.png" alt="shape-img">
@@ -195,53 +108,17 @@
                                 <h4>Innovation & Life Skills</h4>
                             </div>
                             <ul class="pricing-list">
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Entrepreneurship Club</strong>
-                                        <span class="club-description">Hosts Youth Business Spotlight series with teen founders</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Finance & Investing</strong>
-                                        <span class="club-description">Runs "Money Talks" blog and audio series on financial literacy</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Study Skills Circle</strong>
-                                        <span class="club-description">Curates student-submitted templates and manages Study Hub</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Climate Action Club</strong>
-                                        <span class="club-description">Leads climate blog entries and social media awareness campaigns</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check"></i>
-                                    <div>
-                                        <strong>Youth Leadership Circle</strong>
-                                        <span class="club-description">Curates Changemaker Spotlights and mentors new leaders</span>
-                                    </div>
-                                </li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Entrepreneurship Club</strong><span class="club-description">Pitch ideas, learn business basics, and delve into youth entrepreneurship!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Finance & Investing Club</strong><span class="club-description">Play money games, learn investing, and build financial confidence!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Study Skills Circle</strong><span class="club-description">Swap study hacks, join focus sprints, and share resources!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Climate Action Club</strong><span class="club-description">Take on eco-challenges, create awareness campaigns, and learn sustainability!</span></div></li>
+                                <li><i class="fa-solid fa-check"></i><div><strong>Youth Leadership Circle</strong><span class="club-description">Practice leadership, mentor peers, and grow as a changemaker!</span></div></li>
                             </ul>
-                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">
-                                Get Started <i class="fa-solid fa-arrow-right-long"></i>
-                            </a>
+                            <a href="http://app.bridginality.org/" target="_blank" class="theme-btn">Get Started <i class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                     </div>
-                </div>    
 
-                </div>
+                </div>    
             </div>
         </section>
-
-        
-
 <?php include 'footer.php'?>

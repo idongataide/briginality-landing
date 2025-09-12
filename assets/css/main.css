@@ -7477,6 +7477,7 @@ input.main-search-input::placeholder {
   background-color: var(--white);
   border-radius: 24px;
   position: relative;
+  min-height: 720px;
 }
 @media (max-width: 575px) {
   .pricing-items {
@@ -9374,4 +9375,11 @@ input.main-search-input::placeholder {
 
 .bg-22{
   background: #fad7e0e8 !important;
+}
+
+.terms-wrapper ul, .privacy-wrapper ul, .safety-wrapper ul {
+  padding: 0;
+  margin: 0;
+  padding-left: 30px;
+  list-style: disc;
 }

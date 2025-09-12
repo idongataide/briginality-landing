@@ -31,9 +31,9 @@
                         <div class="hero-content">
                             <!-- <h5 class="wow fadeInUp"></h5> -->
                             <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                For Homeschooled Teen </span>By Homeschooled Teens
+                                For Homeschooled Teens </span>By Homeschooled Teens
                             </h2>
-                            <p class="wow fadeInUp" data-wow-delay=".5s">For students (14yrs - 18yrs)</p>
+                            <p class="wow fadeInUp" data-wow-delay=".5s">A global, student-led mental-health platform for homeschooled teens (14-18 years) aimed to combat loneliness with bi-weekly clubs.</p>
                             <!-- <p class="wow fadeInUp" data-wow-delay=".5s">A global, student-led mental-health platform for homeschooled <br/> teens  aimed to combat loneliness.  </p> -->
                             <div class="hero-button">
                                 <a href="http://app.bridginality.org/"  class="theme-btn wow fadeInUp" data-wow-delay=".7s">
@@ -87,12 +87,8 @@
                                     <!-- <span class="wow fadeInUp">About us</span> -->
                                      <h2 class="wow fadeInUp" data-wow-delay=".3s">Top Choice for Teenagers</h2>
                                 </div>
-                                <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                                    Bridginality is a global, student-led mental-health platform for homeschooled teens (ages 14 –
-                                    18) aimed to combat loneliness with biweekly, interactive clubs and peer-to-peer mentoring. I
-                                    was inspired to create Bridginality after struggling with socialization and loneliness during my
-                                    time being newly homeschooled. Bridginality builds community, sparks creativity, and cultivates
-                                    purpose
+                                <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">                                    
+                                    Bridginality is a global, student-led mental-health platform for homeschooled teens (ages 14 – 18) aimed to combat loneliness with biweekly, interactive clubs and peer-to-peer mentoring. Bridginality was created after experiencing first-hand the struggles of socialization and loneliness while being newly homeschooled. Bridginality builds community, sparks creativity, and cultivates purpose.
                                 </p>
                                 <div class="about-list">
                                     <ul class="wow fadeInUp" data-wow-delay=".3s">

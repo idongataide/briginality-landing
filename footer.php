@@ -74,25 +74,25 @@
                         </div>
                         <ul class="list-area">
                             <li>
-                                <a href="about.html">
+                                <a href="about.php">
                                     <i class="fa-solid fa-chevron-right"></i>
-                                    About Us
+                                    Our Story
                                 </a>
                             </li>
                             <li>
-                                <a href="clubs.html">
+                                <a href="clubs.php">
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Our Clubs
                                 </a>
                             </li>                           
                             <li>
-                                <a href="faq.html">
+                                <a href="faq.php">
                                     <i class="fa-solid fa-chevron-right"></i>
                                     FAQ's
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html">
+                                <a href="contact.php">
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Contact Us
                                 </a>
@@ -173,17 +173,17 @@
                 </p>
                 <ul class="footer-menu wow fadeInRight" data-wow-delay=".5s">
                     <li>
-                        <a href="privacy.html">
+                        <a href="privacy-policy.php">
                             Privacy Policy
                         </a>
                     </li>
                     <li>
-                        <a href="terms.html">
+                        <a href="terms.php">
                             Terms of Service
                         </a>
                     </li>
                     <li>
-                        <a href="safety.html">
+                        <a href="safety.php">
                             Safety Guidelines
                         </a>
                     </li>
