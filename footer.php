@@ -107,31 +107,31 @@
                         </div>
                         <ul class="list-area">
                             <li>
-                                <a target="_blank" href="http://app.bridginality.org/" >
+                                <a href="clubs.php" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     STEM Focused
                                 </a>
                             </li>
                             <li>
-                                <a target="_blank" href="http://app.bridginality.org/" >
+                                <a href="clubs.php" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Creative & Cultural
                                 </a>
                             </li>
                             <li>
-                                <a target="_blank" href="http://app.bridginality.org/" >
+                                <a href="clubs.php" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Civic & Intellectual
                                 </a>
                             </li>
                             <li>
-                                <a target="_blank" href="http://app.bridginality.org/" >
+                                <a href="clubs.php" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Innovation & Life Skills
                                 </a>
                             </li>
                             <li>
-                                <a target="_blank" href="http://app.bridginality.org/" >
+                                <a href="clubs.php" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Leadership Opportunities
                                 </a>
