@@ -58,7 +58,6 @@
                 <div class="col-lg-8 mx-auto">
                     <div class="activities-content">
                         <div class="section-title">
-                            <span class="wow fadeInUp">Our Story</span>
                             <h2 class="wow fadeInUp" data-wow-delay=".3s">
                                 Homeschooling <br> with connection.
                             </h2>
