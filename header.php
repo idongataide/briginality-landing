@@ -193,7 +193,7 @@
                                                 <a href="index.php">Home</a>
                                             </li>
                                             <li>
-                                                <a href="#about">About Us</a>
+                                                <a href="#about"> Our Story</a>
                                             </li>
                                             <li>
                                                 <a href="clubs.php">Our Clubs</a>
