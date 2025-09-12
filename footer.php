@@ -74,7 +74,7 @@
                         </div>
                         <ul class="list-area">
                             <li>
-                                <a href="about.php">
+                                <a href="about-us.php">
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Our Story
                                 </a>
@@ -107,31 +107,31 @@
                         </div>
                         <ul class="list-area">
                             <li>
-                                <a href="clubs.html#stem">
+                                <a target="_blank" href="http://app.bridginality.org/" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     STEM Focused
                                 </a>
                             </li>
                             <li>
-                                <a href="clubs.html#creative">
+                                <a target="_blank" href="http://app.bridginality.org/" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Creative & Cultural
                                 </a>
                             </li>
                             <li>
-                                <a href="clubs.html#civic">
+                                <a target="_blank" href="http://app.bridginality.org/" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Civic & Intellectual
                                 </a>
                             </li>
                             <li>
-                                <a href="clubs.html#innovation">
+                                <a target="_blank" href="http://app.bridginality.org/" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Innovation & Life Skills
                                 </a>
                             </li>
                             <li>
-                                <a href="leadership.html">
+                                <a target="_blank" href="http://app.bridginality.org/" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Leadership Opportunities
                                 </a>
