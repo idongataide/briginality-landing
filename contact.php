@@ -71,7 +71,7 @@
                                             </svg>                      
                                         </div>
                                         <div class="content">
-                                            <p>Make a Quote</p>
+                                            <p>Make an enquiry</p>
                                             <h3>
                                                 <a href="mailto:info@bridginality.org">info@bridginality.org</a>
                                             </h3>
@@ -79,7 +79,14 @@
                                     </div>
                                     
                                 </div>
-                               
+                                <div class="video-image">
+                                    <img src="assets/img/video.jpg" alt="img">
+                                    <!-- <div class="video-box">
+                                        <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn ripple video-popup">
+                                            <i class="fa-solid fa-play"></i>
+                                        </a>
+                                    </div> -->
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
