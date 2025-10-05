@@ -97,6 +97,12 @@
                                     Contact Us
                                 </a>
                             </li>
+                            <li>
+                                <a target="_blank" href="https://blog.bridginality.org">
+                                    <i class="fa-solid fa-chevron-right"></i>
+                                    Our Blog
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
