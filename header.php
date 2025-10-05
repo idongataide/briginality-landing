@@ -202,6 +202,9 @@
                                             <li>
                                                 <a href="faq.php">FAQs</a>
                                             </li>
+                                            <li>
+                                                <a target="_blank" href="https://blog.bridginality.org">Blog</a>
+                                            </li>
                                             
                                             <li>
                                                 <a href="contact.php">Contact Us</a>
