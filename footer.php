@@ -106,7 +106,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
+                <div class="col-xl-3 col-lg-5 col-md-6 ps-lg-3 wow fadeInUp" data-wow-delay=".5s">
                     <div class="single-footer-widget style-margin">
                         <div class="widget-head">
                             <h3>Club Categories</h3>
@@ -137,7 +137,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="clubs.php" >
+                                <a href="leadership-opportunities.php" >
                                     <i class="fa-solid fa-chevron-right"></i>
                                     Leadership Opportunities
                                 </a>
