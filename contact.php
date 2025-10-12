@@ -63,9 +63,9 @@
                                 </div>
                                 <div class="content">
                                     <p>Make an enquiry</p>
-                                    <h3>
-                                        <a href="mailto:info@bridginality.org">info@bridginality.org</a>
-                                    </h3>
+                                    <p class="fs-20">
+                                        <a class="text-white" href="mailto:info@bridginality.org">info@bridginality.org</a>
+                                    </p>
                                 </div>
                             </div>
                         </div>
