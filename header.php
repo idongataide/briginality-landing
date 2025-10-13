@@ -116,7 +116,7 @@
                                         <i class="fal fa-envelope"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="mailto:info@brigidnality.org"><span class="mailto:info@brigidnality.org">info@brigidnality.org</span></a>
+                                        <a href="mailto:info@bridginality.org"><span class="mailto:info@bridginality.org">info@bridginality.org</span></a>
                                     </div>
                                 </li>
 <!--                                
