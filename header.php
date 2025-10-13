@@ -119,15 +119,15 @@
                                         <a href="mailto:info@brigidnality.org"><span class="mailto:info@brigidnality.org">info@brigidnality.org</span></a>
                                     </div>
                                 </li>
-                               
+<!--                                
                                 <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
                                         <i class="far fa-phone"></i>
                                     </div>
-                                    <!-- <div class="offcanvas__contact-text">
+                                    <div class="offcanvas__contact-text">
                                         <a href="tel:+11002345909">+11002345909</a>
-                                    </div> -->
-                                </li>
+                                    </div>
+                                </li> -->
                             </ul>
                             <div class="header-button mt-4">
                                 <a target="_blank" href="http://app.bridginality.org/" class="theme-btn text-center">
