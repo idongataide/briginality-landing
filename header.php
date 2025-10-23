@@ -164,7 +164,7 @@
                     <div class="social-icon d-flex align-items-center">
                         <span>Follow Us On:</span>
                         <a target="_blank" href="https://www.facebook.com/people/Bridginality/61581006023336/"><i class="fab fa-facebook-f"></i></a>
-                        <a target="_blank" href="https://www.tiktok.com/@bridginality.org"><i class="fab fa-tiktok"></i></a>
+                        <a target="_blank" href="https://www.tiktok.com/@bridginality"><i class="fab fa-tiktok"></i></a>
                         <a target="_blank" href="https://www.linkedin.com/company/bridginality/"><i class="fa-brands fa-linkedin-in"></i></a>
                         <a target="_blank" href="https://www.instagram.com/bridginality/"><i class="fab fa-instagram"></i></a>
                     </div>
